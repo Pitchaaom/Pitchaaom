@@ -14,30 +14,16 @@ I love creating digital experiences by combining technology, design, and user-ce
 - 🚀 Enjoy turning ideas into meaningful user experiences
 
 ---
+## Projects
 
-## 🛠 Tech Stack
+- 💟 DooDoung Project (https://github.com/DooDoung/doo-doung-frontend)
+A fortune-telling platform that allows users to explore and purchase fortune-telling courses, as well as view and review fortune tellers.
+**Role:** UX/UI Designer & Frontend Developer
 
-### Programming
-- Python
-- C++
-- Java
-- JavaScript / TypeScript
+- 💫 Magical World (https://github.com/Pitchaaom/magical-world)
+A 2D RPG game developed using Java, featuring an interactive fantasy world with character movement, gameplay mechanics, and adventure elements.
+**Role:** Game Developer
 
-### Development
-- React
-- Next.js
-- Node.js
-- Three.js
-- React Three Fiber
-- Unity
-- Blender
-
-### Design & Product
-- Figma
-- UX Research
-- User Journey Mapping
-- Wireframing
-- Prototyping
 
 ---
 
